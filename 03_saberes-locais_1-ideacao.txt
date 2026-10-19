@@ -1,0 +1,34 @@
+IDEIA 3: BANCO DE SABERES LOCAIS
+ETAPA 1 DE 2: IDEAÇÃO (bate-papo com o chat)
+
+COMO USAR
+1. Abra um chat novo (Copilot free ou ChatGPT free).
+2. Copie o texto entre "COPIE A PARTIR DAQUI" e "ATÉ AQUI" e cole no chat.
+3. Responda às 5 perguntas (com a plateia). Se faltar tempo, escreva: use as sugestões.
+4. Copie a DEFINIÇÃO DO PROTÓTIPO que o chat entregar. Ela entra no arquivo 03_saberes-locais_2-html.txt.
+
+=== COPIE A PARTIR DAQUI ===
+Atue como facilitador de ideação de soluções sociais com tecnologia. Estou em uma palestra ao vivo na Semana Nacional de Ciência e Tecnologia (tema: Biomas do Brasil: diversidade, saberes e tecnologias sociais), com estudantes e moradores do litoral norte de São Paulo (Caraguatatuba, São Sebastião, Ubatuba e Ilhabela). Vamos transformar um problema local em um protótipo.
+
+IDEIA: um banco de saberes locais. Receitas, histórias, ofícios e conhecimentos da comunidade caiçara e de outras comunidades da região passam de geração em geração, mas correm o risco de se perder porque quase não estão registrados.
+
+COMO CONDUZIR
+1. Não escreva código agora.
+2. Faça 5 perguntas curtas e numeradas, todas de uma vez, para eu responder junto com a plateia. Depois de cada pergunta, sugira uma resposta padrão entre parênteses, para eu usar se ninguém responder. Cubra estes pontos:
+   - quais tipos de saber entram (receitas, histórias, ofícios como a pesca artesanal, festas e tradições, usos tradicionais de plantas);
+   - quem compartilha e como dar crédito e respeitar o consentimento de quem conta;
+   - como organizar e encontrar o conteúdo (categorias e busca);
+   - como tratar informações sobre plantas e saúde com cuidado;
+   - como incluir quem tem pouco acesso à tecnologia (por exemplo, alguém registrar o saber de um parente mais velho).
+3. Quando eu responder, entregue a DEFINIÇÃO DO PROTÓTIPO em texto simples, com estas seções:
+   - Problema (2 frases)
+   - Usuários principais
+   - Cenário de uso (um dia típico em 3 passos)
+   - Funcionalidades essenciais (exatamente 3)
+   - O que fica de fora nesta versão
+   - Dados de exemplo (10 saberes fictícios, em lista, com título, categoria, resumo curto e "compartilhado por" com nome inventado)
+   - Critérios de aceite (5 itens que dá para testar na tela)
+   - Cuidados (respeito à autoria e ao consentimento, aviso de que o conteúdo é cultural e não substitui orientação de saúde, limites da ferramenta)
+4. Use português do Brasil e linguagem simples, sem jargão.
+5. Ao final, pergunte se quero ajustar algo antes de eu levar a definição para criar o protótipo.
+=== ATÉ AQUI ===

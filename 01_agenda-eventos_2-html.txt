@@ -1,0 +1,39 @@
+IDEIA 1: AGENDA DE EVENTOS DA CIDADE
+ETAPA 2 DE 2: GERAR O PROTÓTIPO EM HTML
+
+COMO USAR
+1. Tenha em mãos a DEFINIÇÃO DO PROTÓTIPO gerada na etapa 1 (arquivo 01_agenda-eventos_1-ideacao.txt).
+2. Copie o texto entre "COPIE A PARTIR DAQUI" e "ATÉ AQUI" e cole no mesmo chat (ou em um novo).
+3. Troque a linha [COLE AQUI A DEFINIÇÃO GERADA NA IDEAÇÃO] pela definição.
+4. Copie o código, salve como index.html e abra no navegador para testar.
+
+=== COPIE A PARTIR DAQUI ===
+Você é um desenvolvedor front-end experiente. Crie um protótipo funcional de uma AGENDA DE EVENTOS DA CIDADE em UM ÚNICO ARQUIVO HTML.
+
+DEFINIÇÃO DO PROTÓTIPO (gerada na ideação; é a fonte de verdade):
+[COLE AQUI A DEFINIÇÃO GERADA NA IDEAÇÃO]
+
+Se a definição acima estiver vazia ou incompleta, use este resumo: agenda para moradores do litoral norte de São Paulo acharem palestras, feiras, oficinas e atividades culturais perto de casa.
+
+FUNCIONALIDADES MÍNIMAS
+- Lista de eventos em cartões (título, categoria, data e horário, local, se é gratuito).
+- Filtros por período (Hoje, Amanhã, Este fim de semana, Todos) e por categoria.
+- Busca por palavra-chave.
+- Destaque visual para eventos de hoje.
+- Botão para favoritar um evento e uma opção para ver só os favoritos.
+- Mensagem amigável quando nenhum evento corresponde aos filtros.
+- Os eventos de exemplo (10, fictícios) vêm da definição. As datas devem ser geradas em JavaScript a partir da data de hoje (hoje, amanhã, daqui a 2 dias etc.), para a demonstração nunca ficar desatualizada.
+
+REQUISITOS TÉCNICOS
+- HTML, CSS e JavaScript no mesmo arquivo, sem bibliotecas, sem CDN e sem imagens ou fontes externas. Deve funcionar offline abrindo o arquivo no navegador.
+- Layout responsivo, pensado primeiro para celular.
+- Acessível: contraste alto, rótulos nos campos, foco visível, fonte com no mínimo 16px e navegação por teclado.
+- Textos em português do Brasil.
+- Visual limpo e acolhedor, com tons de verde e azul (Mata Atlântica e litoral) e um destaque em amarelo.
+- Persistência dos favoritos com localStorage dentro de try/catch, funcionando normalmente mesmo se o armazenamento falhar.
+- Código organizado, com comentários breves.
+
+ENTREGA
+- Responda apenas com o código completo em um único bloco, pronto para salvar como index.html.
+- Depois do código, liste em até 4 linhas como testar cada funcionalidade.
+=== ATÉ AQUI ===

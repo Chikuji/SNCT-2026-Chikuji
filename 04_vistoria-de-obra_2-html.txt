@@ -1,0 +1,41 @@
+IDEIA 4: VISTORIA DE OBRA (Engenharia Civil)
+ETAPA 2 DE 2: GERAR O PROTÓTIPO EM HTML
+
+COMO USAR
+1. Tenha em mãos a DEFINIÇÃO DO PROTÓTIPO gerada na etapa 1 (arquivo 04_vistoria-de-obra_1-ideacao.txt).
+2. Copie o texto entre "COPIE A PARTIR DAQUI" e "ATÉ AQUI" e cole no mesmo chat (ou em um novo).
+3. Troque a linha [COLE AQUI A DEFINIÇÃO GERADA NA IDEAÇÃO] pela definição.
+4. Copie o código, salve como index.html e abra no navegador para testar.
+5. Lembrete para a plateia: é uma ferramenta de apoio e não substitui a vistoria de um profissional habilitado.
+
+=== COPIE A PARTIR DAQUI ===
+Você é um desenvolvedor front-end experiente. Crie um protótipo funcional de uma FERRAMENTA DE VISTORIA DE OBRA em UM ÚNICO ARQUIVO HTML.
+
+DEFINIÇÃO DO PROTÓTIPO (gerada na ideação; é a fonte de verdade):
+[COLE AQUI A DEFINIÇÃO GERADA NA IDEAÇÃO]
+
+Se a definição acima estiver vazia ou incompleta, use este resumo: checklist de vistoria para quem constrói ou reforma a própria casa, organizado por etapa (fundação, estrutura, alvenaria, instalações e acabamento), com registro de pendências e relatório para imprimir.
+
+FUNCIONALIDADES MÍNIMAS
+- Checklist organizado por etapa, com 4 itens de conferência por etapa (da definição). Cada item tem três opções: Conferido, Pendente ou Não se aplica, e um campo de observação.
+- Barra de progresso geral e por etapa, com o percentual de itens conferidos (itens "Não se aplica" não entram na conta).
+- Resumo de pendências, listando os itens marcados como Pendente com suas observações.
+- Campo para o nome da obra e a data da vistoria (data de hoje por padrão).
+- Botão "Imprimir relatório" que abre a impressão do navegador com um layout próprio para papel (CSS de impressão: sem botões, com título, nome da obra, data, progresso, pendências e observações).
+- Aviso fixo e visível: "Ferramenta de apoio. Não substitui a vistoria de um profissional habilitado (engenheiro ou arquiteto). Em caso de dúvida, fissuras que aumentam ou risco de segurança, chame um profissional."
+- Botão para reiniciar a vistoria, com confirmação.
+
+REQUISITOS TÉCNICOS
+- HTML, CSS e JavaScript no mesmo arquivo, sem bibliotecas, sem CDN e sem imagens ou fontes externas. Deve funcionar offline abrindo o arquivo no navegador.
+- Layout responsivo, pensado primeiro para celular.
+- Acessível: contraste alto, rótulos nos campos, foco visível, fonte com no mínimo 16px, navegação por teclado, e não usar só cor para indicar o estado de cada item.
+- Textos em português do Brasil.
+- Visual limpo e acolhedor, com tons de verde e azul e um destaque em amarelo para as pendências.
+- Persistência com localStorage dentro de try/catch, funcionando normalmente mesmo se o armazenamento falhar.
+- Escapar o texto digitado para evitar injeção de HTML.
+- Código organizado, com comentários breves.
+
+ENTREGA
+- Responda apenas com o código completo em um único bloco, pronto para salvar como index.html.
+- Depois do código, liste em até 4 linhas como testar cada funcionalidade.
+=== ATÉ AQUI ===

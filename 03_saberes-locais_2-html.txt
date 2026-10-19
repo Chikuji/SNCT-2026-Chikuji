@@ -1,0 +1,41 @@
+IDEIA 3: BANCO DE SABERES LOCAIS
+ETAPA 2 DE 2: GERAR O PROTÓTIPO EM HTML
+
+COMO USAR
+1. Tenha em mãos a DEFINIÇÃO DO PROTÓTIPO gerada na etapa 1 (arquivo 03_saberes-locais_1-ideacao.txt).
+2. Copie o texto entre "COPIE A PARTIR DAQUI" e "ATÉ AQUI" e cole no mesmo chat (ou em um novo).
+3. Troque a linha [COLE AQUI A DEFINIÇÃO GERADA NA IDEAÇÃO] pela definição.
+4. Copie o código, salve como index.html e abra no navegador para testar.
+5. Lembrete para a plateia: o conteúdo da demonstração é fictício.
+
+=== COPIE A PARTIR DAQUI ===
+Você é um desenvolvedor front-end experiente. Crie um protótipo funcional de um BANCO DE SABERES LOCAIS em UM ÚNICO ARQUIVO HTML.
+
+DEFINIÇÃO DO PROTÓTIPO (gerada na ideação; é a fonte de verdade):
+[COLE AQUI A DEFINIÇÃO GERADA NA IDEAÇÃO]
+
+Se a definição acima estiver vazia ou incompleta, use este resumo: banco para registrar e encontrar receitas, histórias, ofícios e tradições da comunidade caiçara e de outras comunidades do litoral norte de São Paulo.
+
+FUNCIONALIDADES MÍNIMAS
+- Galeria de cartões com título, categoria, resumo e "compartilhado por".
+- Busca por palavra-chave e filtro por categoria (Receitas, Histórias, Ofícios, Tradições, Plantas e usos tradicionais).
+- Ao clicar em um cartão, abrir o detalhe com o texto completo (em um painel ou janela acessível, que fecha com o botão e com a tecla Esc).
+- Formulário para adicionar um novo saber (título, categoria, texto, compartilhado por) com a caixa de seleção "A pessoa autorizou o registro deste saber". Só permitir salvar se estiver marcada.
+- Aviso fixo e visível: "Conteúdo cultural de exemplo. Não substitui orientação de saúde. Os dados ficam apenas neste navegador."
+- Nos saberes da categoria Plantas e usos tradicionais, mostrar o aviso de que não é recomendação de tratamento.
+- Os 10 saberes de exemplo (fictícios) vêm da definição e já aparecem na tela inicial.
+
+REQUISITOS TÉCNICOS
+- HTML, CSS e JavaScript no mesmo arquivo, sem bibliotecas, sem CDN e sem imagens ou fontes externas. Deve funcionar offline abrindo o arquivo no navegador.
+- Layout responsivo, pensado primeiro para celular.
+- Acessível: contraste alto, rótulos nos campos, foco visível, fonte com no mínimo 16px, navegação por teclado e janela de detalhe com foco gerenciado.
+- Textos em português do Brasil.
+- Visual limpo e acolhedor, com tons de verde e azul (Mata Atlântica e litoral) e um destaque em amarelo.
+- Persistência dos novos saberes com localStorage dentro de try/catch, funcionando normalmente mesmo se o armazenamento falhar.
+- Escapar o texto digitado para evitar injeção de HTML.
+- Código organizado, com comentários breves.
+
+ENTREGA
+- Responda apenas com o código completo em um único bloco, pronto para salvar como index.html.
+- Depois do código, liste em até 4 linhas como testar cada funcionalidade.
+=== ATÉ AQUI ===

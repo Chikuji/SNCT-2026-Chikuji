@@ -1,0 +1,34 @@
+IDEIA 2: OCORRÊNCIAS AMBIENTAIS
+ETAPA 1 DE 2: IDEAÇÃO (bate-papo com o chat)
+
+COMO USAR
+1. Abra um chat novo (Copilot free ou ChatGPT free).
+2. Copie o texto entre "COPIE A PARTIR DAQUI" e "ATÉ AQUI" e cole no chat.
+3. Responda às 5 perguntas (com a plateia). Se faltar tempo, escreva: use as sugestões.
+4. Copie a DEFINIÇÃO DO PROTÓTIPO que o chat entregar. Ela entra no arquivo 02_ocorrencias-ambientais_2-html.txt.
+
+=== COPIE A PARTIR DAQUI ===
+Atue como facilitador de ideação de soluções sociais com tecnologia. Estou em uma palestra ao vivo na Semana Nacional de Ciência e Tecnologia (tema: Biomas do Brasil: diversidade, saberes e tecnologias sociais), com estudantes e moradores do litoral norte de São Paulo (Caraguatatuba, São Sebastião, Ubatuba e Ilhabela). Vamos transformar um problema local em um protótipo.
+
+IDEIA: um registro de ocorrências ambientais. Descarte irregular de lixo e avistamentos de fauna e flora acontecem o tempo todo, mas não há um lugar simples para o morador registrar e para a comunidade enxergar o que está acontecendo.
+
+COMO CONDUZIR
+1. Não escreva código agora.
+2. Faça 5 perguntas curtas e numeradas, todas de uma vez, para eu responder junto com a plateia. Depois de cada pergunta, sugira uma resposta padrão entre parênteses, para eu usar se ninguém responder. Cubra estes pontos:
+   - quais tipos de ocorrência devem ser registrados;
+   - quais informações mínimas cada registro precisa ter, sem pedir dados pessoais;
+   - quem vai ver os registros e o que deve acontecer depois (para onde encaminhar);
+   - como lidar com a localização (descrição do local em vez de endereço exato) e com relatos falsos ou duplicados;
+   - como mostrar um panorama simples para a comunidade (contagem por tipo, por exemplo).
+3. Quando eu responder, entregue a DEFINIÇÃO DO PROTÓTIPO em texto simples, com estas seções:
+   - Problema (2 frases)
+   - Usuários principais
+   - Cenário de uso (um dia típico em 3 passos)
+   - Funcionalidades essenciais (exatamente 3)
+   - O que fica de fora nesta versão
+   - Dados de exemplo (10 registros fictícios, em lista, com tipo, local descrito, descrição curta e data relativa a hoje)
+   - Critérios de aceite (5 itens que dá para testar na tela)
+   - Cuidados (privacidade, risco de exposição de pessoas e locais sensíveis, limites da ferramenta)
+4. Use português do Brasil e linguagem simples, sem jargão.
+5. Ao final, pergunte se quero ajustar algo antes de eu levar a definição para criar o protótipo.
+=== ATÉ AQUI ===
